@@ -18,7 +18,9 @@ npm start
 
 ## Credits
 
-- The base of this project is built upon [fca-project-orion](https://www.npmjs.com/package/fca-project-orion) library by Schmavery,KanzuXHorizon. Remade by Ivan Cotacte.
+- Original Project(Deprecated): https://github.com/Schmavery/facebook-chat-api
+- This is The Defunct Project https://github.com/KanzuXHorizon/Fca-Horizon-Remastered and Redeveloped By KanzuXHorizon
+- Remade by Ivan Cotacte (https://www.facebook.com/icotacteeee) (https://github.com/ivancotacte)
 
 ## License
 
