@@ -16,9 +16,9 @@ npm install
 npm start
 ~~~
 
-## Credits
+## ©️ Credits
 
 
-## License
+## 🪪 License
 
 This project is licensed under the [MIT License](LICENSE).
