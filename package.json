@@ -1,15 +1,25 @@
 {
-  "name": "project-pallas-v1",
+  "name": "project-pallas",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "facebook-bot",
+    "chatbot",
+    "messenger-bot",
+    "facebook-chatbot",
+    "openai-bot",
+    "fca-project-orion"
+  ],
   "author": {
     "name": "Ivan Cotacte",
     "email": "cotactearmenion@gmail.com"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivancotacte/Project-Pallas-v1/issues"
+  }
 }
