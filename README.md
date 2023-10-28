@@ -1,13 +1,13 @@
 # Pallas - Your Messenger Chatbot
 
-## 🚀 Features
+## Features
 
 ~~~
 
 ~~~
 
 
-## HOW TO DEPLOY
+## How To Deploy
 
 ~~~
 git clone https://github.com/ivancotacte/Project-Pallas-v1
@@ -16,9 +16,9 @@ npm install
 npm start
 ~~~
 
-## ©️ Credits
+## Credits
 
 
-## 🪪 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
